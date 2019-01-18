@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tray.Config\Tray.Config.csproj">
+      <Project>{2097084f-48a7-4219-92de-8012cd924228}</Project>
+      <Name>Tray.Config</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

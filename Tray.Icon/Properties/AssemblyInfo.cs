@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("Tray Icon library.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("The Code Jerk")]
-[assembly: AssemblyProduct("thecodejerk.Tray.Icon")]
+[assembly: AssemblyProduct("Customizable Tray Icon")]
 [assembly: AssemblyCopyright("Copyright © theCodeJerk Inc. 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
